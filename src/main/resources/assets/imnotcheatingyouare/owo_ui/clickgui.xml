@@ -41,7 +41,7 @@
                                         <vertical>center</vertical>
                                     </alignment>
                                     <children>
-                                        <label text="MARLOWWW" id="title-label">
+                                        <label text="SyWare V3" id="title-label">
                                         </label>
                                     </children>
                                 </flow-layout>
